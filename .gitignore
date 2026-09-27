@@ -1,0 +1,38 @@
+# Data files
+*.tif
+*.tiff
+*.geotiff
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.zip
+*.tar.gz
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
